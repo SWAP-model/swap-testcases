@@ -6,3 +6,5 @@ output.*
 *.out
 __pycache__/
 *.pyc
+Swap.ok
+swap.ok
