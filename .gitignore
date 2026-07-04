@@ -1,0 +1,8 @@
+# Run artifacts — cases hold inputs only, never outputs
+result_*.csv
+result_output.csv
+*.log
+output.*
+*.out
+__pycache__/
+*.pyc

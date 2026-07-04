@@ -1,0 +1,14 @@
+#------------------------------------------------
+# Observations
+# Variable : CWSO
+# Source   : Salt Farm (Gerrit van Straten en Arjen de Vos)
+# Date     : 2017-02-02
+# Remark   : Potatoes: Achilles
+#            Vak: 26N
+#            21% van versgewicht
+#------------------------------------------------
+date,value
+2012-07-19,5423.704
+2013-08-29,5247.407
+2014-08-12,3231.667
+2015-08-18,8160.833
